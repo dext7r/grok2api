@@ -13,7 +13,7 @@ database_id = "REPLACE_WITH_D1_DATABASE_ID"
 migrations_dir = "migrations"
 
 [[kv_namespaces]]
-binding = "KV_CACHE"
+binding = "grok2api-cache"
 # Filled by CI / your first deployment bootstrap.
 id = "REPLACE_WITH_KV_NAMESPACE_ID"
 
