@@ -12,6 +12,6 @@ portalocker==3.0.0
 aiomysql==0.2.0
 redis==6.4.0
 fastmcp==2.12.4
-cryptography==46.0.3
+cryptography==46.0.5
 orjson==3.11.4
 aiohttp==3.13.2
